@@ -2,7 +2,7 @@
 - 👀 I’m interested in Learn programming and coding languages
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on programming world
-- 📫 How to reach me hdafmls87@gmail.com
+- 📫 How to reach...
 
 <!---
 HaddafMalas/HaddafMalas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
